@@ -6,7 +6,7 @@ Please go under edit and edit this file as needed for your project
 # Project Group - 
 ### Group Leader - IT20603472 - Ashen A V S (Ashen2020)
 ### Member 2 - IT20622732 - Ranwala R D H N (HimashaNethmini)
-### Member 3 -  IT20653972 - Maheepala S A D K H
+### Member 3 -  IT20653972 - Maheepala S A D K H (KodeshaHasindu)
 ### Member 4 -  Dinu M
 
 #### Brief Description of your Solution - 

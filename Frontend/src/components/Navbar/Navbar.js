@@ -42,7 +42,7 @@ class NavBar extends Component {
                     <Grid item xs={3}>
                     <div className="navbar__right">
                         <Avatar src='https://scontent.fcmb3-2.fna.fbcdn.net/v/t1.6435-1/188613307_1245344929259694_7612591059878129185_n.jpg?stp=c0.0.40.40a_cp0_dst-jpg_p40x40&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHNotVkrlQ2pUp3rDs2eurF-nA9afVhPtL6cD1p9WE-0gsUxToM9S_LdaHl2WcMfxmjaKjD1iA20wekrZsj01_g&_nc_ohc=DmXC70JdVM4AX9bf-2Q&_nc_ht=scontent.fcmb3-2.fna&oh=00_AfACRcT9HagI9pS0T-D4O2-lRj_eMHQF2y1IPqbWzdPwxQ&oe=647D4EB1'/>
-                        <div className="navbar__profilename">Ashen</div>
+                        
                         </div>
                     </Grid>
                 </Grid>

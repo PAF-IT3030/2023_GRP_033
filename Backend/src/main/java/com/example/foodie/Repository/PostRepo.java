@@ -15,4 +15,5 @@ public interface PostRepo extends CassandraRepository<Post, UUID> {
 	Post save(Post post);
 	void deleteById(UUID postID);
 	
+	
 }

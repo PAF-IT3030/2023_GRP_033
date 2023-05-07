@@ -6,7 +6,7 @@ import java.util.UUID;
 
 import org.springframework.data.cassandra.repository.CassandraRepository;
 
-import com.example.foodie.Entity.Statu s;
+import com.example.foodie.Entity.Status;
 //import com.example.dinu.Entity.Status;
 
 public interface StatusRepo extends CassandraRepository<Status, UUID> {
